@@ -12,7 +12,7 @@ Member of:
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=praneethrangarajan&include_all_commits=true&theme=dark&show_icons=true&title_color=cccccc&text_color=777777&icon_color=cccccc&border_color=23272e&bg_color=90,1e2227,1e2227&hide_border=false&border_radius=5)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=praneethrangarajan&layout=compact&theme=dark&hide=html&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=praneethrangarajan&layout=compact&theme=dark&hide=html&langs_count=10&title_color=cccccc&text_color=777777&icon_color=cccccc&border_color=23272e&bg_color=90,1e2227,1e2227&hide_border=false&border_radius=5)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
 
