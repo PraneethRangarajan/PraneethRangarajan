@@ -10,7 +10,7 @@ Member of:
 
 ## Github Stats
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=praneethrangarajan&include_all_commits=true&theme=dark&show_icons=true&title_color=ff0000&text_color=00ff00&icon_color=0000ff)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=praneethrangarajan&include_all_commits=true&theme=dark&show_icons=true&title_color=ff0000&text_color=00ff00&icon_color=0000ff&border_color=ffffff&bg_color=000000&hide_border=false&border_radius=5)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=praneethrangarajan&layout=compact&theme=dark&hide=html&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
